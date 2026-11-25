@@ -1,0 +1,15 @@
+# Spresense SDK のclone（DNNRT解析用の外部リポジトリ、1.3GB・埋め込み.git入り）
+# 入手方法は analyze/report/ および SETUP.md を参照
+analyze/dnnrt_sdk/
+
+# ビルド生成物
+code/dnnrt_port/build/
+
+# Claude Code ローカル設定
+.claude/settings.local.json
+
+# PC側ツール用 venv
+.venv/
+
+# Python キャッシュ
+__pycache__/
