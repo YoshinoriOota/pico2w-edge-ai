@@ -1,4 +1,4 @@
-# CLAUDE.md
+# README.md
 
 ## プロジェクト概要
 Raspberry Pi Pico2 W + OV7670 によるエッジAIカメラシステム
